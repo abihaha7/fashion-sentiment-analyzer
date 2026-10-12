@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/project-banner.png" alt="Fashion Sentiment Analyzer banner" width="100%">
+</p>
 # 💜 Fashion Brand Sentiment Analyzer
 
 <p align="center">
